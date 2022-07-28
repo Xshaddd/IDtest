@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu name="Main Menu" id="0">
+	<item name="Play" id="1"/>
+	<item name="Exit" id="0"/>
+</menu>
